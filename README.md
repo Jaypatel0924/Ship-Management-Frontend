@@ -2,6 +2,10 @@
 
 A responsive and feature-rich Ship Maintenance Dashboard built with *React* for managing ships, components, and maintenance jobs. This simulation uses *localStorage* for all data persistence.
 
+## For features
+Use a desktop site in any browser for complete website 
+
+
 ## 🌐 Deployed Link
 https://ship-management-frontend-git-main-jay-patels-projects-21397060.vercel.app/
 
